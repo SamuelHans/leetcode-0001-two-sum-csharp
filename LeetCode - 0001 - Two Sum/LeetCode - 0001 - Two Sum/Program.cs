@@ -30,6 +30,33 @@
             
             Follow - up: Can you come up with an algorithm that is less than O(n2) time complexity?
             */
+
+            // Variables
+            //var nums = new int[4] { 2, 7, 11, 15 };
+            //var target = 9;
+
+            //var nums = new int[3] { 3, 2, 4 };
+            //var target = 6;
+
+            //var nums = new int[2] { 3, 3 };
+            //var target = 6;
+
+            var nums = new int[5] { 1, 3, 3, -100, 100 };
+            var target = 0;
+
+            int findValue;
+            int otherIndex;
+
+            for (int i = 0; i < nums.Length; i++) 
+            {
+                findValue = target - nums[i];
+                otherIndex = Array.IndexOf(nums, findValue);
+                if (otherIndex != -1 && otherIndex != i) 
+                {
+                    Console.WriteLine("The two indices are {0} and {1}.", i, otherIndex);
+                    break;
+                }
+            }
         }
     }
 }

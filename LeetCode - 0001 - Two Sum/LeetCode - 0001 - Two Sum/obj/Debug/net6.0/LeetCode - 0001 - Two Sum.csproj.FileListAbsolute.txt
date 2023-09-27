@@ -1,0 +1,14 @@
+J:\Files\Working\Repos\LeetCode\leetcode-0001-two-sum-csharp\LeetCode - 0001 - Two Sum\LeetCode - 0001 - Two Sum\bin\Debug\net6.0\LeetCode - 0001 - Two Sum.exe
+J:\Files\Working\Repos\LeetCode\leetcode-0001-two-sum-csharp\LeetCode - 0001 - Two Sum\LeetCode - 0001 - Two Sum\bin\Debug\net6.0\LeetCode - 0001 - Two Sum.deps.json
+J:\Files\Working\Repos\LeetCode\leetcode-0001-two-sum-csharp\LeetCode - 0001 - Two Sum\LeetCode - 0001 - Two Sum\bin\Debug\net6.0\LeetCode - 0001 - Two Sum.runtimeconfig.json
+J:\Files\Working\Repos\LeetCode\leetcode-0001-two-sum-csharp\LeetCode - 0001 - Two Sum\LeetCode - 0001 - Two Sum\bin\Debug\net6.0\LeetCode - 0001 - Two Sum.dll
+J:\Files\Working\Repos\LeetCode\leetcode-0001-two-sum-csharp\LeetCode - 0001 - Two Sum\LeetCode - 0001 - Two Sum\bin\Debug\net6.0\LeetCode - 0001 - Two Sum.pdb
+J:\Files\Working\Repos\LeetCode\leetcode-0001-two-sum-csharp\LeetCode - 0001 - Two Sum\LeetCode - 0001 - Two Sum\obj\Debug\net6.0\LeetCode - 0001 - Two Sum.GeneratedMSBuildEditorConfig.editorconfig
+J:\Files\Working\Repos\LeetCode\leetcode-0001-two-sum-csharp\LeetCode - 0001 - Two Sum\LeetCode - 0001 - Two Sum\obj\Debug\net6.0\LeetCode - 0001 - Two Sum.AssemblyInfoInputs.cache
+J:\Files\Working\Repos\LeetCode\leetcode-0001-two-sum-csharp\LeetCode - 0001 - Two Sum\LeetCode - 0001 - Two Sum\obj\Debug\net6.0\LeetCode - 0001 - Two Sum.AssemblyInfo.cs
+J:\Files\Working\Repos\LeetCode\leetcode-0001-two-sum-csharp\LeetCode - 0001 - Two Sum\LeetCode - 0001 - Two Sum\obj\Debug\net6.0\LeetCode - 0001 - Two Sum.csproj.CoreCompileInputs.cache
+J:\Files\Working\Repos\LeetCode\leetcode-0001-two-sum-csharp\LeetCode - 0001 - Two Sum\LeetCode - 0001 - Two Sum\obj\Debug\net6.0\LeetCode - 0001 - Two Sum.dll
+J:\Files\Working\Repos\LeetCode\leetcode-0001-two-sum-csharp\LeetCode - 0001 - Two Sum\LeetCode - 0001 - Two Sum\obj\Debug\net6.0\refint\LeetCode - 0001 - Two Sum.dll
+J:\Files\Working\Repos\LeetCode\leetcode-0001-two-sum-csharp\LeetCode - 0001 - Two Sum\LeetCode - 0001 - Two Sum\obj\Debug\net6.0\LeetCode - 0001 - Two Sum.pdb
+J:\Files\Working\Repos\LeetCode\leetcode-0001-two-sum-csharp\LeetCode - 0001 - Two Sum\LeetCode - 0001 - Two Sum\obj\Debug\net6.0\LeetCode - 0001 - Two Sum.genruntimeconfig.cache
+J:\Files\Working\Repos\LeetCode\leetcode-0001-two-sum-csharp\LeetCode - 0001 - Two Sum\LeetCode - 0001 - Two Sum\obj\Debug\net6.0\ref\LeetCode - 0001 - Two Sum.dll
